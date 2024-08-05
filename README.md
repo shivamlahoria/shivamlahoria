@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shivamlahoria. I'm a research scholar and teaching assistant @BITS Pilani.  🌱 Research: AI in Educational Technology
 - In my spare time, I love to explore about music. I am a guitarist.
-- I have work experience in the analyst field. I have also worked in PSU as a Senior Assistant(IT).
+- I have work experience in the analyst field. I have also worked at PSU as a Senior Assistant(IT).
 - 👀 I’m interested in ... web development and learning about new technologies
-- 🌱 I’m currently learning ... blockchain (DApp), Ethereum, python, back-end development, react.js 
-- 💞️ I’m looking to collaborate on ... new projects, you can check my projects at https://github.com/shivamlahoria
+- 🌱 I’m currently learning ... python, back-end development, react.js 
+- 💞️ I’m looking to collaborate on ... new projects. You can check my projects at https://github.com/shivamlahoria
 - 📫 How to reach me ... email Id: shivamlahoria8@gmail.com
 - LinkedIn Profile: https://www.linkedin.com/in/shivam-lahoriaweb
 - SoloLearn Profile : https://www.sololearn.com/profile/19650012
