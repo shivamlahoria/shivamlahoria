@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shivamlahoria. I'm a research scholar and teaching assistant @BITS Pilani.  🌱 Research: AI in Educational Technology (AIEd)
-- I'm passionate about music and love to experiment with sounds and composition in my free time. I also play the guitar.
 - I have work experience in the analyst field. I have also worked at PSU as a Senior Assistant(IT).
 - 👀 I’m interested in ... web development, especially front end (react.js), and learning about new technologies
 - 🌱 I’m currently learning ... python, back-end development
